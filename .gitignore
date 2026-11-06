@@ -1,0 +1,12 @@
+node_modules/
+dist/
+coverage/
+playwright-report/
+test-results/
+.env
+.env.local
+.env.*.local
+*.pem
+.claude/settings.local.json
+.claude/worktrees/
+.DS_Store
